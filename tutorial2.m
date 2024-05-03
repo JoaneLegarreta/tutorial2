@@ -1,6 +1,6 @@
 close all;clc;clearvars
 n=100;
-T=1.5;
+T=1;
 
 t=linespace(0, 10, n);
 
